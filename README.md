@@ -1,4 +1,6 @@
 ### Hi there 👋
+안녕하세요.
+신입개발자 김혜운입니다.
 
 <!--
 **hyewoon/hyewoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
