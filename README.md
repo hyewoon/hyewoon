@@ -10,9 +10,6 @@ small step
 한 걸음씩 성장하고 있습니다.
 
 
-portfolio
-
-
 
 <https://www.notion.so/hye-s-profile-c818d1a2a9ab4b8081b31b0f056d9c8a>
 
