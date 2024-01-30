@@ -9,8 +9,8 @@ small step
 
 한 걸음씩 성장하고 있습니다.
 
-<img width="275" alt="image" src="https://github.com/hyewoon/hyewoon/assets/113662682/a4a1a736-2711-43f5-a4da-54d37f390810">
 
+![Velog]((https://www.notion.so/hye-s-profile-c818d1a2a9ab4b8081b31b0f056d9c8a&logoColor=green)
 
 [<img width="275" alt="image" src="https://github.com/hyewoon/hyewoon/assets/113662682/a4a1a736-2711-43f5-a4da-54d37f390810">] (https://www.notion.so/hye-s-profile-c818d1a2a9ab4b8081b31b0f056d9c8a)
 
