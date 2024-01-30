@@ -7,12 +7,6 @@
 small step    
 
 
-한 걸음씩 성장하고 있습니다.
-![velog](<img width="252" alt="image" src="https://github.com/hyewoon/hyewoon/assets/113662682/e8ac081a-d101-44c9-bfc9-c68acd1438f0">
-.svg?&style=for-the-badge&logo=Java&logoColor=green)
-
-
-
 
 <!--
 **hyewoon/hyewoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
