@@ -2,13 +2,12 @@
 안녕하세요.
 신입안드로이드 개발자 김혜운입니다.   
 
-앱을 만들며 만나는 문제들을 하나씩 해결해 나가며 성장하고 있습니다.
-"아직 나는 해결방법을 찾지 못했을 뿐이지, 이 문제를 해결할 수 없는 것은 아니다!"라는 마인드로 문제에 접근하고 있습니다.
-구글링, stackoverflow를 가까이 하며, 이제는 chatGPT를 통해 좀 더 빨리 문제를 해결할 방법들을 모색하고 있습니다. 
+앱을 만들며 만나는 문제들을 하나씩 해결해 나가며 성장하고 있습니다.</br>
+"아직 나는 해결방법을 찾지 못했을 뿐이지, 이 문제를 해결할 수 없는 것은 아니다!"라는 마인드로 문제에 접근하고 있습니다.</br>
+구글링, stackoverflow를 가까이 하며, 이제는 chatGPT를 통해 좀 더 빨리 문제를 해결할 방법들을 모색하고 있습니다..</br> </br>
+항상 새로운 기술이 도입되는 앱 개발환경에서 지치지 않고 꾸준히 노력하는 개발자가 되고자 합니다. </br>
 
-항상 새로운 기술이 도입되는 앱 개발환경에서 지치지 않고 꾸준히 노력하는 개발자가 되고자 합니다. 
-
-포트 폴이오 https://www.notion.so/hye-s-profile-c818d1a2a9ab4b8081b31b0f056d9c8a
+포트 폴리오 :  https://www.notion.so/hye-s-profile-c818d1a2a9ab4b8081b31b0f056d9c8a
 <!--
 **hyewoon/hyewoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -25,6 +24,9 @@ Here are some ideas to get you started:
 -->
 
 ### skills
+![Kotlin](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=yellow)
+![AndroidStudio](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=green)
+![jectpack](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=blue)
 ![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
 ![Eclipse IDE](https://img.shields.io/badge/Eclipse%20IDE-2C2255.svg?&style=for-the-badge&logo=Eclipse%20IDE&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000.svg?&style=for-the-badge&logo=Oracle&logoColor=white)
