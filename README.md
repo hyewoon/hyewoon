@@ -24,9 +24,7 @@ Here are some ideas to get you started:
 -->
 
 ### skills
-![Kotlin](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=kotlin&logoColor=yellow)
-![AndroidStudio](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=green)
-![jectpack](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=blue)
+![Kotlin](https://img.shields.io/badge/Kitlin-007396.svg?&style=for-the-badge&logo=Kotlin&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
 ![Eclipse IDE](https://img.shields.io/badge/Eclipse%20IDE-2C2255.svg?&style=for-the-badge&logo=Eclipse%20IDE&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000.svg?&style=for-the-badge&logo=Oracle&logoColor=white)
