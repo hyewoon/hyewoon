@@ -7,7 +7,7 @@
 구글링, stackoverflow를 가까이 하며, 이제는 chatGPT를 통해 좀 더 빨리 문제를 해결할 방법들을 모색하고 있습니다..</br> </br>
 항상 새로운 기술이 도입되는 앱 개발환경에서 지치지 않고 꾸준히 노력하는 개발자가 되고자 합니다. </br>
 
-포트 폴리오 :  https://www.notion.so/hye-s-profile-c818d1a2a9ab4b8081b31b0f056d9c8a
+
 <!--
 **hyewoon/hyewoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
